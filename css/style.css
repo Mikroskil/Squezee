@@ -1,0 +1,40 @@
+body {
+	padding-bottom: 40px;
+    padding-top: 60px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../img/content.png);
+}
+.container{margin-left:auto; margin-right:auto;}
+.navbar{ margin-left:auto; margin-right:auto;}
+.kategori { list-style-type:none}
+.kategori li .btn{ margin:8px; width:90px;}
+.kategori li a{ text-align:center}
+.foto{ width:100px; height:100px;}
+.img-rounded{ height:200px; width:300px;}
+
+.widget-header {
+  border: 1px solid #DDD;
+  padding: 20px 5px;
+  text-align: center;
+  margin: 0;
+  border-bottom: 0;
+  background-color: #EEEEEC;
+  -webkit-border-radius: 5px 5px 0 0;
+     -moz-border-radius: 5px 5px 0 0;
+          border-radius: 5px 5px 0 0;
+}
+.widget-body {
+  font-size: 16px;
+  padding: 30px 0 20px 0;
+  border: 1px solid #DDD;
+  -webkit-border-radius: 0 0 5px 5px;
+     -moz-border-radius: 0 0 5px 5px;
+          border-radius: 0 0 5px 5px;
+}
+.center-align {
+  text-align: center;
+ }
+ 
+.vspace20{ background-color:#000000;} 
+.vspace20 p{ color: #CCCCCC}
